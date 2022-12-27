@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "dev": "nodemon .",
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
