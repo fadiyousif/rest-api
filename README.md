@@ -8,7 +8,6 @@ Built with Node & Express. Tested with Chai & Mocha.
 GET      /api/employees
 POST     /api/employees
 DELETE   /api/employees/:id
-
 ```
 
 ## Usage
