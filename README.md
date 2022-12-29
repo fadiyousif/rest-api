@@ -15,17 +15,13 @@ DELETE   /api/employees/:id
 ```
 # Install dependencies
 npm install
-yarn install
 
 # Run in development
 npm run dev
-yarn run dev
 
 # Run in production
 npm start
-yarn start
 
 # Run tests
 npm test
-yarn test
 ```
